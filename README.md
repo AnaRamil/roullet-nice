@@ -117,9 +117,8 @@ Este projeto é de uso livre.
 ## 👤 Autor
 
 **Ana Paula Ramil**  
-Email: anapaulafernadesramil@gmail.com  
 GitHub: [@AnaRamil](https://github.com/AnaRamil)
-
+Projeto de formação Desenvolvimento Fullstack da Faculdade de Tecnologia Rocketseat.
 ---
 
 Desenvolvido com ❤️ e JavaScript puro.
