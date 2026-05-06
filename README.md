@@ -112,13 +112,13 @@ O contador de sorteios funciona assim:
 
 ## 📄 Licença
 
-Este projeto é de uso livre.
+Projeto de formação Desenvolvimento Fullstack da Faculdade de Tecnologia Rocketseat.
 
 ## 👤 Autor
 
 **Ana Paula Ramil**  
 GitHub: [@AnaRamil](https://github.com/AnaRamil)
-Projeto de formação Desenvolvimento Fullstack da Faculdade de Tecnologia Rocketseat.
+
 ---
 
 Desenvolvido com ❤️ e JavaScript puro.
